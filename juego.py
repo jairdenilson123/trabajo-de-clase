@@ -16,3 +16,4 @@ if tablero[fila][columna] == "B":
     tablero[fila][columna] = "X"  # Actualizacion dinamica
 else:
     print("Agua...")
+          
